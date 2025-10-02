@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+joblib
+catboost      # If your model is built with CatBoost
